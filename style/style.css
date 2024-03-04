@@ -490,7 +490,7 @@ input:focus {
 
 .title-top-image > a {
   font-size: 14px;
-  font-family: three;
+  font-family: two;
 }
 
 .price {
@@ -654,7 +654,7 @@ input:focus {
 
 .title-brands-image > a {
   font-size: 14px;
-  font-family: three;
+  font-family: two;
 }
 
 .brands-margin {
@@ -673,10 +673,6 @@ input:focus {
 }
 
 /* -----------------------=[banner]=-------------------------- */
-
-.main-banner {
-  margin: 40px 0;
-}
 
 .text-banner {
   padding: 0 80px;
@@ -697,6 +693,6 @@ input:focus {
   gap: 15px;
 }
 
-.photo-banner > img{
+.photo-banner > img {
   width: 316px;
 }

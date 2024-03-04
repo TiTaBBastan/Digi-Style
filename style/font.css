@@ -1,0 +1,31 @@
+@font-face {
+  font-family: one;
+  src: url(../font/1.woff);
+}
+
+@font-face {
+  font-family: two;
+  src: url(../font/2.woff2);
+}
+
+@font-face {
+  font-family: three;
+  src: url(../font/3.woff);
+}
+
+@font-face {
+  font-family: four;
+  src: url(../font/4.woff2);
+}
+
+@font-face {
+  font-family: five;
+  src: url(../font/5.woff2);
+}
+
+@font-face {
+  font-family: six;
+  src: url(../font/6.woff2);
+}
+
+

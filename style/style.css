@@ -696,3 +696,40 @@ input:focus {
 .photo-banner > img {
   width: 316px;
 }
+
+/* -----------------------=[recently]=-------------------------- */
+
+.slide2-margin {
+  margin-top: 40px;
+}
+
+/* -----------------------=[albom]=-------------------------- */
+.main-albom {
+  margin: 40px 0;
+}
+
+.lable-albom {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title-albom {
+  display: flex;
+  flex-direction: column;
+}
+
+.photo-albom {
+  width: 72%;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.photo-albom > img{
+  max-width: 290px;
+  background-color: #f5f5f5;
+}
+
+.photo-albom > img:first-child{
+  grid-column: span 2 / span 2;
+  max-width: 641px !important;
+}
